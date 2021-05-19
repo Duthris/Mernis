@@ -3,7 +3,10 @@ Mernis // E-Devlet Doğrulama Sistemi // Java GUI JFrame Demo Project
 
 
 Java GUI (JFrame) öğrenimi için denediğim bir çalışma. Mernis E-Devlet WSDL sistemini gui ile görsel hale getirip bilgilerin tam olarak doldurulduğunda,
-doğrulandı veya doğrulanmadı şeklinde dönüt veren bir program haline getirildi. 
+doğrulandı veya doğrulanmadı şeklinde dönüt veren bir program haline getirildi.  
+
+
+![image](https://user-images.githubusercontent.com/71668283/118851138-23ec4480-b8da-11eb-85ab-57637ea19773.png)
 
 
 Belli başlı basit düzeyde yapılan düzenlemelerin çıktıları;
